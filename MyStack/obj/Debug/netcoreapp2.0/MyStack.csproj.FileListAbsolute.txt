@@ -1,0 +1,10 @@
+C:\Users\Muhammed Ali\MyStack\obj\Debug\netcoreapp2.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Ali\MyStack\obj\Debug\netcoreapp2.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\Muhammed Ali\MyStack\obj\Debug\netcoreapp2.0\MyStack.AssemblyInfo.cs
+C:\Users\Muhammed Ali\MyStack\bin\Debug\netcoreapp2.0\MyStack.deps.json
+C:\Users\Muhammed Ali\MyStack\bin\Debug\netcoreapp2.0\MyStack.runtimeconfig.json
+C:\Users\Muhammed Ali\MyStack\bin\Debug\netcoreapp2.0\MyStack.runtimeconfig.dev.json
+C:\Users\Muhammed Ali\MyStack\bin\Debug\netcoreapp2.0\MyStack.dll
+C:\Users\Muhammed Ali\MyStack\bin\Debug\netcoreapp2.0\MyStack.pdb
+C:\Users\Muhammed Ali\MyStack\obj\Debug\netcoreapp2.0\MyStack.dll
+C:\Users\Muhammed Ali\MyStack\obj\Debug\netcoreapp2.0\MyStack.pdb
