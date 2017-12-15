@@ -1,0 +1,19 @@
+					DEPENDENCY INJECTION
+
+Dependency injection is a technique whereby one object supplies the dependencies of another object. A dependency is an object that can be used (a service).
+ An injection is the passing of a dependency to a dependent object (a client) that would use it.Its aim is to achieve loose coupling between objects and their
+collaborators.Dependency injection is one form of the broader technique of inversion of control. Rather than low level code calling up to high level code, high 
+level code can receive lower level code that it can call down to. 
+ Dependency Inversion Principle which states that,high level modules should not depend on low level modules; both should depend on abstractions.When a system is
+ designed to use DI, with many classes requesting their dependencies via their constructor (or properties), it's helpful to have a class dedicated to creating 
+these classes with their associated dependencies. These classes are referred to as containers, or more specifically, Inversion of Control (IoC) containers or 
+Dependency Injection (DI) containers.
+There are three common means for a client to accept a dependency injection: setter, interface and constructor-based injection. 
+Setter and constructor injection differ mainly by when they can be used. 
+Interface injection differs in that the dependency is given a chance to control its own injection.
+All require that separate construction code (the injector) take responsibility for introducing a client and its dependencies to each other.
+The Dependency Injection design pattern solves problems like how can an application be independent of how its objects are created,
+how can a class be independent of how the objects it requires are created,how can the way objects are created be specified in separate configuration files,how
+can an application support different configurations.
+.NET Core includes a simple built-in container (represented by the IServiceProvider interface) that supports constructor injection by default.
+Built-in container's services in a method can be found in the Startup class.
